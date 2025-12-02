@@ -4,6 +4,7 @@ Water under high Pressure & Temperature Can dissolve materials including Glass!
 # Knowledge.Geology:
 - https://en.wikipedia.org/wiki/Hydrothermal_mineral_deposit
 - https://en.wikipedia.org/wiki/Vein_(geology)
+- https://en.wikipedia.org/wiki/Geode
 
 # Inspire.
 ## Synthetic Quartz
